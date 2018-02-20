@@ -47,7 +47,6 @@ MPLABXProjects		Things			xgen
 ==========
 4. If there are directories or files in your home directory that have the word mtec1003 in them, list them below (otherwise skip this step):
 ----------
-MTEC1003
 
 
 ==========
@@ -313,6 +312,8 @@ Otherwise...
 
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
+ls
+
 Adlm			Music			metc1003-lab-03.tar.gz
 Adobe			New Unity Project	mtec1002-lab-02
 Applications		Pictures		mtec1002-lab-02.zip
